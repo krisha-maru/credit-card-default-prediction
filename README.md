@@ -8,10 +8,12 @@ A machine learning project to predict credit card default risk and help financia
 
 Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, LightGBM
 
+
 📂 Dataset
 
 Source: Add your Kaggle/UCI link here
 (Dataset not uploaded — only link + optional sample provided)
+
 
 🧪 ML Pipeline
 
@@ -27,6 +29,7 @@ Model Evaluation & Comparison
 
 Key Insights & Business Takeaways
 
+
 🤖 Models Used
 
 Logistic Regression
@@ -37,6 +40,7 @@ XGBoost
 
 LightGBM (Best performers for deployment)
 
+
 🔍 Key Insights
 
 Credit limit, age, and repayment history (PAY_0–PAY_6) highly influence default risk.
@@ -45,6 +49,7 @@ Customers with irregular repayments or high previous balances show higher probab
 
 Early prediction helps banks send reminders, adjust limits, and reduce financial losses.
 
+
 🏦 Business Impact
 
 Better credit-risk monitoring and early intervention.
@@ -52,6 +57,7 @@ Better credit-risk monitoring and early intervention.
 Improved recovery and repayment rates.
 
 Enhanced credit policy decisions & targeted marketing.
+
 
 📈 Results
 
