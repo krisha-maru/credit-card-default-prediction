@@ -1,4 +1,5 @@
 Credit Card Default Risk Prediction
+
 📌 Project Overview
 
 A machine learning project to predict credit card default risk and help financial institutions identify high-risk customers early. The project includes full EDA, preprocessing, multi-model training, evaluation, and insights for business decision-making.
